@@ -1,5 +1,7 @@
 ##Presenter
 
+[![build status](https://travis-ci.org/JordanAdams/Presenter.png)](https://travis-ci.org/JordanAdams/Presenter)
+
 A simple framework-agnostic model presenter for php.
 
 ####Setup
