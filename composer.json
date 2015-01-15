@@ -1,0 +1,28 @@
+{
+    "name": "jordan-adams/presenter",
+    "description": "A simple framework-agnostic model presenter",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~4.2.16"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4.1",
+        "mockery/mockery": "~0.9.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "JordanAdams\\Presenter\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": ["tests/stubs"]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordan Adams",
+            "email": "hi@jordanadams.co.uk"
+        }
+    ],
+    "minimum-stability": "stable"
+}
